@@ -75,7 +75,7 @@ public class server
     
     public static void main(String[] args) throws IOException 
     {
-    	System.out.println("Sistemas distribuidos - Primera parcial");
+    	System.out.println("Sistemas distribuidos - Primera final");
 		System.out.println("Nombre:Cesar");
 		System.out.println("Apellido:Rodas");
 		System.out.println("Edad:23");
